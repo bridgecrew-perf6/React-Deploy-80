@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santosantho/React-Deploy/static/css/main.4daa9861.css",
+    "main.js": "/santosantho/React-Deploy/static/js/main.526e0d56.js",
+    "static/js/787.bc7d429a.chunk.js": "/santosantho/React-Deploy/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/santosantho/React-Deploy/index.html",
+    "main.4daa9861.css.map": "/santosantho/React-Deploy/static/css/main.4daa9861.css.map",
+    "main.526e0d56.js.map": "/santosantho/React-Deploy/static/js/main.526e0d56.js.map",
+    "787.bc7d429a.chunk.js.map": "/santosantho/React-Deploy/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4daa9861.css",
+    "static/js/main.526e0d56.js"
+  ]
+}
